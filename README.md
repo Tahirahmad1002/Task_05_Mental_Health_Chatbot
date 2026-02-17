@@ -17,11 +17,11 @@ By fine-tuning **DistilGPT2** on human-annotated emotional dialogues, this bot s
 
 #### **1. Professional Chat Interface**
 *A clean, dark-themed UI designed for focus and calm.*
-![App Interface]([INSERT_LINK_1])
+![App Interface](images/screenshot1.png)
 
 #### **2. The "Omelet Test" (Hallucination Guardrail)**
 *Showing the bot successfully answering factual questions without hallucinating emotional advice.*
-![Omelet Test]([INSERT_LINK_2])
+![Omelet Test](images/screenshot2.png)
 
 ---
 
